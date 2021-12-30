@@ -5,8 +5,8 @@ a simple bash script which I sometimes use to download comics.
 > NOTE: it requires wget, soffice and pdfunite to run
 
 ```
-pacman -S wget poppler libraoffice
-apt install wget poppler-utils poppler-utils
+pacman -S wget poppler libreoffice
+apt install wget poppler-utils libreoffice
 ```
 
 ## Installing
